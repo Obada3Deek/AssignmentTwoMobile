@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AssignmentTwoMobile</string>
+    <string name="mainTextView">Welcome to my application \n</string>
+    <string name="hint_passwordMainActivity">Password</string>
+    <string name="hint_usernameMainActivity">Username\n</string>
+    <string name="button_LOGIN">Log in\n</string>
+    <string name="FullName_Act2">Full Name\n</string>
+    <string name="hint_Specialization">Specialization</string>
+    <string name="hint_Address">Address</string>
+    <string name="WelcomeMessegeACT2">Welcome to the second Activity\n</string>
+    <string name="Welcome_MessageACT2">Please enter the username and password that were entered on the home page</string>
+    <string name="Welcome_messegeACT3">Welcome to the Third Activity\n</string>
+    <string name="Description_ACT3">In this interface, it is possible to display the names and current price of these digital currencies and others in the world of trading.\n</string>
+    <string name="Welcome_messegeACT4">Welcome to the Fourth Activity</string>
+    <string name="uni_description">In this interface, we display a list of colleges and universities in England</string>
+</resources>
